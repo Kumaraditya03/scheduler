@@ -1,0 +1,23 @@
+{
+  "name": "schedulerproj",
+  "version": "1.0.0",
+  "description": "sample scheduler project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "scheduler"
+  },
+  "keywords": [
+    "task",
+    "scheduler",
+    "scheduling"
+  ],
+  "author": "Aditya",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.2"
+  }
+}
